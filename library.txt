@@ -1,0 +1,9 @@
+Harry Potter and the Philosopher's Stone,J. K. Rowling,1997,223
+Harry Potter and the Chamber of Secrets,J. K. Rowling,1998,251
+Harry Potter and the Prisoner of Azkaban,J. K. Rowling,1999,317
+Harry Potter and the Goblet of Fire,J. K. Rowling,2000,636
+Harry Potter and the Order of the Phoenix,J. K. Rowling,2003,766
+Harry Potter and the Half-Blood Prince,J. K. Rowling,2005,607
+Harry Potter and the Deathly Hallows,J. K. Rowling,2007,610
+The Picture of Dorian Gray,Oscar Wilde,1890,288
+Chess Story,Stefan Zweig,1942,104
