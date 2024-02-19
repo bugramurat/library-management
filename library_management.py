@@ -1,6 +1,7 @@
 # bugra murat - akbank python bootcamp
 
 PATH_LIBRARY = r"C:\\Users\\lemon\\Desktop\\library.txt"
+SPLITTER = ","
 
 
 class Library:
@@ -28,7 +29,7 @@ class Library:
                 for book_info in book_lines:
                     # Split the book information into name and author
                     name, author, first_release_date, number_of_pages = book_info.split(
-                        ',')
+                        SPLITTER)
                     print(f"Book: {name}, Author: {author}")
         except Exception as e:
             print(f"Error: Unable to list books. Reason: {e}")
